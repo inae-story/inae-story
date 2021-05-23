@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+인애의 깃허브에 오신 것을 환영합니다.
+
 <!--
 **inae-story/inae-story** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
